@@ -7,3 +7,4 @@ de las alcadías de la Ciudad de México y municipios del Estado de México e Hi
 Zona Metropolitana del Valle de México. 
 
 Para lograr el mapa se utilizan las librerías leaflet, sp, dplyr y htmltools. El producto es un archivo html que puede verse en cualquier navegador.  
+Se anexan los archivos shp comprimidos. 
